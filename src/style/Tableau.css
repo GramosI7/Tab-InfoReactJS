@@ -1,0 +1,26 @@
+.container__underheader {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.container__underheader__title {
+    color: #405866;
+}
+
+.container__underheader__p {
+    font-size: 16px;
+}
+
+.tableau_css {
+    min-width: 100%;
+}
+
+th {
+    cursor: pointer;
+    border: 0px;
+}
+
+.table td{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
